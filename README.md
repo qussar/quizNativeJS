@@ -1,1 +1,1 @@
-# quizNativeJS
+Опросник на чистом js
